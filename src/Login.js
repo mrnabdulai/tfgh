@@ -27,9 +27,9 @@ function Login() {
     <form onSubmit={login}>
         <img src="/maki_hospital-jp.svg" alt="" />
         <label htmlFor="">Username</label>
-        <input type="text" ref={usernameRef} name="username" id="" placeholder='username'/>
+        <input type="text" ref={usernameRef} name="username" id="df" placeholder='username'/>
         <label htmlFor="">Password</label>
-        <input type="password" ref={passwordRef} name='password' id="" placeholder='password'/>
+        <input type="password" ref={passwordRef} name='password' id="33" placeholder='password'/>
         <button type="submit">Login</button>
     </form>
     </div>
