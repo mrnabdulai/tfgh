@@ -1,0 +1,22 @@
+.members__table table{
+width: 100%;
+border: 1px solid;
+/* border-radius: 20px; */
+}
+
+.members__table {
+    padding: 100px 100px;
+}
+
+.members__table table th{
+    padding: 10px 20px;
+    background-color: #4E5568;
+    color: #fff;
+}
+
+
+.members__table .add_btn{
+   background-color:  #28A745;
+   color: white;
+   padding: 10px 20px;
+}

@@ -1,0 +1,28 @@
+.member__row img {
+
+    width: 50px;
+    height: 50px ;
+    border-radius: 50%;
+}
+.member__row td{
+    border: 1px solid whitesmoke;
+    font-weight: 400;
+
+}
+
+.member__row td button {
+
+padding: 7px 15px;
+margin-right: 5px;
+color: #fff;
+border: none;
+}
+
+.member__row td button.edit{
+background-color: #007AFC;
+}
+
+.member__row td button.delete{
+background-color: #dc3545;
+}
+
